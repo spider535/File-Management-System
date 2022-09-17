@@ -5,8 +5,7 @@ using namespace std;
 
 
 /**
-* @author Sagar_214101044
-* @author Shubham_214101053
+* @author Sagar_Kesarwani
 */
 
 /*
